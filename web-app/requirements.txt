@@ -306,7 +306,7 @@ talos==0.6.6
 tb-nightly==1.14.0a20190603
 tblib==1.6.0
 tensorboard==1.14.0
-tensorflow==1.14.0
+tensorflow==1.15.2
 tensorflow-estimator==1.14.0
 termcolor==1.1.0
 terminado==0.8.3
